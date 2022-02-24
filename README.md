@@ -21,3 +21,5 @@ Give the path of `data ` folder to the variable named path in `script.py`.
 
 ## Output
 Output of `script.py` is a .csv per .js file. It will create csvs and store them in a separate directory called `csvs` that would be in the same path as the input `data`directory. 
+
+**Click [here](https://gist.github.com/hussam95/af86a2702e2482238b9713049134ac3e) to view the code gist.**
