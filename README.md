@@ -12,7 +12,7 @@ The `script.py` file uses a recursive technique to parse the Twitter dump. Befor
 1. The script reads through all the .js files
 2. It uses string manipulation techniques to make the file structure similar to a JSON
 
-After using recursion, the script saves the output (i.e. single csv per .js) into the desired directory/
+After using recursion, the script saves the output (i.e. single csv per .js) into the desired directory.
 
 ## Input
 Once you download your Twitter archive in .js format, unzip the dowload file. Within the unzipped directory, you will have a `data` folder. This fodler will contain all the .js files that would be the part of your dump. 
